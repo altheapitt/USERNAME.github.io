@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Althea Mae Kaohu R. Pittman",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://techfolios.github.io/template/images/Me.png",
+    "email": "apittman@hawaii.edu",
+    "phone": "808-793-8192",
+    "website": "http://USERNAME.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,49 +17,53 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "altheapitt",
+        "url": "http://USERNAME.github.io/"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "apittman",
+        "url": "http://www.linkedin.com/in/althea-mae-kaohu-pittman-14056016a"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "N/A",
+        "url": "N/A"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "althea.l8r",
+        "url": "http://instagram.com/althea.l8r"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Video Games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "League of Legends",
+        "CS:GO",
+        "Overwatch"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Beauty Pageants",
       "keywords": [
+        "Miss O'ahu Filipina",
+        "Miss Philippines Hawai'i"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "United States Army",
       "keywords": [
+        "ROTC Cadet"
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "3",
       "keywords": [
         "C",
         "C++",
@@ -71,7 +75,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "3",
       "keywords": [
         "MacOS",
         "Ubuntu",
@@ -85,85 +89,48 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "studyType": "B.A.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.03",
       "courses": [
+        "ICS212"
+        "ICS311"
+        "ICS314"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Student Housing Services",
+      "position": "Resident Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Resident assistant for floors 5, 6 and 7 in Hale Wainani F.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create a family within the apartment life community."
       ]
     }
   ],
-  "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Timpuyog Orgranization",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Vice President",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "Take care of club paperwork and in charge of tasking other officers.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Web Administrator 2016-2017",
+        "Vice President 2017-2018"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Miss O'ahu Filipina First Runner Up",
+      "date": "July, 2018",
+      "awarder": "O'ahu Filipino Chamber of Commerce",
+      "summary": "Competed in a scholarship pageant and placed first runner up."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }

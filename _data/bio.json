@@ -114,15 +114,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "CrossFit Kuleana",
+      "website": "",
+      "position": "Member",
+      "startDate": "2019-01-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Member of a strong family of athletes.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Attempt to complete rigorous workouts each day of the week under a target time limit.",
+        "Challenge the body physcially and mentally by participating in a variety of classes."
       ]
     },
     {

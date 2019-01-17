@@ -56,8 +56,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -65,16 +63,14 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.A.",
       "startDate": "2016-08-01",
@@ -86,70 +82,76 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Student Housing Services",
+      "position": "Resident Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-12-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Resident assistant for the Hale Wainani community",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "The Resident Assistant (RA) is responsible for working closely with other 
+        Student Housing Services staff members to develop and maintain positive residential 
+        communities. RAs have the most frequent interaction and direct communication with 
+        residential students and, as a result, have a unique opportunity to contribute to the 
+        holistic development and education of residents."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "PALS",
+      "position": "Director",
+      "website": "",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Demonstrates quality leadership by stimulating interest in the recreation leaders and 
+        aides for whom they are responsible. Directors will be actively involved with planning, 
+        instructing, daily curriculum and all recreational activities with leaders and aides. 
+        Directors will be a positive role model in mentoring staff; enforce applicable program 
+        rules and regulations; and perform other related duties as required."
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+  //"volunteer": [
+  //  {
+  //    "organization": "Center for Renewable Energy and Island Sustainability",
+  //    "website": "http://manoa.hawaii.edu/reis",
+  //    "position": "Software Developer",
+  //    "startDate": "2016-01-01",
+  //    "endDate": "Present",
+  //    "summary": "Lead developer for weather sensing project",
+  //    "highlights": [
+  //      "Design firmware for distributed weather sensor network",
+  //      "Maintain custom data collection and storage infrastructure"
+  //    ]
+  //  },
+  //  {
+  //    "organization": "",
+  //    "website": "",
+  //    "position": "Professional organization involvement",
+  //    "startDate": "",
+  //    "endDate": "",
+  //    "summary": "",
+  //    "highlights": [
+  //      "Chair, ACM Manoa, 2016-Present",
+  //      "Member, IEEE Student Branch, 2014-Present",
+  //      "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "title": "3-year Advanced Designee Army ROTC Scholarship",
+      "date": "2016-Present",
+      "awarder": "Department of Defense",
+      "summary": "A tuition paying scholarship awarded to me for my high potential as an officer in the Army."
+    }//,
+    //{
+    //  "title": "First place",
+    //  "date": "2015",
+    //  "awarder": "University of Hawaii Micromouse Competition",
+    //  "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    //}
   ],
   "references": [
     {

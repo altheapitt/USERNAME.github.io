@@ -8,13 +8,8 @@ labels:
   - Software Engineering
 ---
 
-## ...
+## My opinion 
 
 <img class="ui tiny left circular floated image" src="../images/jslogo.png">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. 
-Design is such a complex concept. For example, when looking at abstract art, its meaning 
-can be completely different for different people. It motivates a person to think thoughtfully 
-and has the potential to submerge them in a sea of imagination. It’s that special 
-relationship between the viewer and the art that makes something as technical as software 
-engineering interesting to me.
+Prior to my second semester of my junior year at the University of Hawai'i at Mānoa, I had no prior experience programming with JavaScript and it has been sometime since I programmed in Java.

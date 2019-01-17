@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-## My opinion 
+## My journey to JavaScript... 
 
 <img class="ui tiny left circular floated image" src="../images/jslogo.png">
 

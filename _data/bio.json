@@ -1,39 +1,32 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Althea Mae Kaohu R. Pittman",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://altheapitt.github.io/images/althea.png",
+    "email": "apittman@hawaii.edu",
+    "phone": "(808) 793-8192",
+    "website": "https://altheapitt.github.io",
+    "summary": "I am a student in the Department of Information and Computer Sciences at the 
+    University of Hawaii at Mānoa studying for a B.A. in Information and Computer Sciences. 
+    My immediate goals are to graduate in Spring, 2020, and pursue a career in the military upon 
+    commissioning as a second lieutenant in the Army.",
     "location": {
-      "address": "",
+      "address": "2591 Dole St.",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawai'i"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "altheapitt",
+        "url": "http://github.com/altheapitt"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/altheapitt"
       }
     ]
   },

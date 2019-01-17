@@ -112,30 +112,31 @@
       ]
     }
   ],
-  //"volunteer": [
-  //  {
-  //    "organization": "Center for Renewable Energy and Island Sustainability",
-  //    "website": "http://manoa.hawaii.edu/reis",
-  //    "position": "Software Developer",
-  //    "startDate": "2016-01-01",
-  //    "endDate": "Present",
-  //    "summary": "Lead developer for weather sensing project",
-  //    "highlights": [
-  //      "Design firmware for distributed weather sensor network",
-  //      "Maintain custom data collection and storage infrastructure"
-  //    ]
-  //  },
-  //  {
-  //    "organization": "",
-  //    "website": "",
-  //    "position": "Professional organization involvement",
-  //    "startDate": "",
-  //    "endDate": "",
-  //    "summary": "",
-  //    "highlights": [
-  //      "Chair, ACM Manoa, 2016-Present",
-  //      "Member, IEEE Student Branch, 2014-Present",
-  //      "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Vice President, Timpuyog Organization, 2017-2019",
+        "Treasurer, Timpuyog Organization, 2016-2017",
+        "Member, ACM, UH Mānoa, 2019-Present",
+        "Member, Grey Hats, UH Mānoa, 2019-Present"
       ]
     }
   ],
@@ -145,13 +146,13 @@
       "date": "2016-Present",
       "awarder": "Department of Defense",
       "summary": "A tuition paying scholarship awarded to me for my high potential as an officer in the Army."
-    }//,
-    //{
-    //  "title": "First place",
-    //  "date": "2015",
-    //  "awarder": "University of Hawaii Micromouse Competition",
-    //  "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    //}
+    },
+    {
+      "title": "First Princess - Miss O'ahu Filipina 2018",
+      "date": "2015",
+      "awarder": "O'ahu Filipino Community Council",
+      "summary": "Won first runner up in the Miss O'ahu Filipina 2018 scholarship pageant."
+    }
   ],
   "references": [
     {

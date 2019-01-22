@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  This is [ABSOLUTELY] Such a Thing as a Dumb Question!
+title:  This is Such a Thing as a Dumb Question!
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-16
 labels:

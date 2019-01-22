@@ -3,9 +3,10 @@ layout: essay
 type: essay
 title:  This is Such a Thing as a Dumb Question!
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-16
+date: 2019-01-22
 labels:
   - Software Engineering
+  - Stack Overflow
 ---
 
 <img class="ui tiny left circular floated image" src="../images/jslogo.png">

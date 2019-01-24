@@ -27,4 +27,8 @@ To the left is an example of a poorly worded and scary looking wall of text. Som
 
 ...and with a poorly worded help threat, comes a comment that could have been an answer with more information given in the original post.
 
+<img class="ui large right floated image" src="../images/goodquestion1.png">
+
+## Now, that's more like it!
+
 

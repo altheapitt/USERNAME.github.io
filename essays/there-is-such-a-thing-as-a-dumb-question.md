@@ -17,7 +17,7 @@ Everyone who has been on a computer programming forum website knows how rough us
    
 Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming. The way it works is Stack Overflow serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg.
 
-<img class="ui medium left floated image" src="../images/badquestion.png">
+<img class="ui large left floated image" src="../images/badquestion.png">
 
 ## The Not so Good, Bad, & Ugly
 

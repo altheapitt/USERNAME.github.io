@@ -28,12 +28,11 @@ To the left is an example of a poorly worded and scary looking wall of text. Som
 ...and with a poorly worded help threat, comes a comment that could have been an answer with more information given in the original post.
 
 <img class="ui large right floated image" src="../images/goodquestion1.png">
+<img class="ui large right floated image" src="../images/goodquestion2.png">
 
 ## That's more like it!
 
 Let's show some love for this user! With a title like that, it's no wonder this question has been viewed 34,859 times! To the right is an example of a great question. Short and sweet and with all the basic information needed to help this user with no stress at all, this is a perfect example of how one should ask for help.
-
-<img class="ui large right floated image" src="../images/goodquestion2.png">
 
 With 44 upvotes on the problem itself, this user struck a pot of gold with the amount of help he received...
 

@@ -23,4 +23,6 @@ Stack Overflow is a privately held website, the flagship site of the Stack Excha
 
 To the left is an example of a poorly worded and scary looking wall of text. Somewhere in that paragraph is a fellow programmer asking for help, too bad no one can figure out what they want. Can you spot the question this user is asking?
 
+<img class="ui large left floated image" src="../images/badanswer.png">
+
 

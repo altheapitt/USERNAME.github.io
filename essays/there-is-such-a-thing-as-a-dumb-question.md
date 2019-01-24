@@ -29,9 +29,9 @@ To the left is an example of a poorly worded and scary looking wall of text. Som
 
 <img class="ui large right floated image" src="../images/goodquestion1.png">
 
-## Now, that's more like it!
+## That's more like it!
 
-Let's show some love for this user! With a title like that, it's no wonder this question has been viewed 34,859 times! Short and sweet and with all the basic information needed to help this user with no stress at all, this is a perfect example of how one should ask for help.
+Let's show some love for this user! With a title like that, it's no wonder this question has been viewed 34,859 times! To the right is an example of a great question. Short and sweet and with all the basic information needed to help this user with no stress at all, this is a perfect example of how one should ask for help.
 
 <img class="ui large right floated image" src="../images/goodquestion2.png">
 

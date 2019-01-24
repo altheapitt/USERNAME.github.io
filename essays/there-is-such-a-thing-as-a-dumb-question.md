@@ -31,4 +31,16 @@ To the left is an example of a poorly worded and scary looking wall of text. Som
 
 ## Now, that's more like it!
 
+Let's show some love for this user! With a title like that, it's no wonder this question has been viewed 34,859 times! Short and sweet and with all the basic information needed to help this user with no stress at all, this is a perfect example of how one should ask for help.
 
+<img class="ui large right floated image" src="../images/goodquestion2.png">
+
+With 44 upvotes on the problem itself, this user struck a pot of gold with the amount of help he received...
+
+<img class="ui large right floated image" src="../images/goodanswer.png">
+
+8 answers! The top answer including verification, 38 upvotes, and great content, just what this user needed!
+
+## So what then?
+
+Let's all remember that if you ask a great question, you will receive great answers but let's not forget, that if you ask a bad question, you will receive bad answers.

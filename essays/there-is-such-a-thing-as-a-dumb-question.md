@@ -11,7 +11,7 @@ labels:
 
 <img class="ui tiny left circular floated image" src="../images/stackoverflow.png">
 
-Prior to my second semester of my junior year at the University of Hawai'i at Mānoa, I had no experience programming with JavaScript - it had also been two years since I programmed in Java. With C and C++ being my most recent focus, JavaScript was a little rough for me to adjust to...
+Everyone who has been on a computer programming forum website knows how rough other users can be with their replies and comments but, they do so with good reason. The problem is, how do you ask for help? A lot of this can be prevented with a better understanding on how to ask for help which would not only benefit you but many others with the same question.
   
 ## What am I thinking? 
   

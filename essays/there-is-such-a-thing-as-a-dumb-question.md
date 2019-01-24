@@ -21,6 +21,6 @@ Stack Overflow is a privately held website, the flagship site of the Stack Excha
 
 ## The Not so Good, Bad, & Ugly
 
-To the left is an example of a poorly worded and scary looking wall of text. Somewhere in that paragraph is a fellow programmer asking for help. Can you spot the question this user is asking?
+To the left is an example of a poorly worded and scary looking wall of text. Somewhere in that paragraph is a fellow programmer asking for help, too bad no one can figure out what they want. Can you spot the question this user is asking?
 
 

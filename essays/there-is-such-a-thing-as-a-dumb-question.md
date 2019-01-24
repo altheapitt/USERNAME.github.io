@@ -19,4 +19,4 @@ Stack Overflow is a privately held website, the flagship site of the Stack Excha
 
 <img class="ui medium left floated image" src="../images/badquestion.png">
 
-## The Bad, & Ugly
+## The Not so Good, the Bad, & the Ugly

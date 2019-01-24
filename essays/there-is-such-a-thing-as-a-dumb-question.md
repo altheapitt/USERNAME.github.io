@@ -11,7 +11,7 @@ labels:
 
 <img class="ui tiny left circular floated image" src="../images/stackoverflow.png">
 
-Everyone who has been on a computer programming forum website knows how rough other users can be with their replies and comments but, they do so with good reason and a lot of these nasty replies can be prevented with a better understanding on how to ask for help. The problem is, HOW DO YOU ask for help?
+Everyone who has been on a computer programming forum website knows how rough users can be with their replies and comments but, they do so with good reason... A lot of these nasty replies can be prevented with a better understanding on how to ask for help. The question is, HOW DO YOU ask for help?
   
 ## "...Where Developers Learn, Share, & Build Careers" - Stack Overflow
    

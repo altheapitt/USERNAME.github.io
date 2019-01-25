@@ -34,7 +34,7 @@ To the left is an example of a poorly worded and scary looking wall of text. Som
 
 Let's show some love for this user! With a title like that, it's no wonder this question has been viewed 34,859 times! To the right is an example of a great question. Short and sweet and with all the basic information needed to help this user with no stress at all, this is a perfect example of how one should ask for help.
 
-With 44 upvotes on the problem itself, this user struck a pot of gold with the amount of help he received...
+This particular post gained some major fame since it has been posted 2 years and 8 months ago. With 44 upvotes on the problem itself, this user struck a pot of gold with the amount of help he received...
 
 What did this user do differently?.. (1) The title of the forum post is not worded poorly. (2) The user provides everything a fellow programmer would need to solve the problem. (3) The post is very friendly and inviting, no scary walls of text!
 

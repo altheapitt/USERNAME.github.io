@@ -44,6 +44,8 @@ Can you spot any more differences between the two?
 
 8 answers! The top answer including verification, 38 upvotes, and great content, just what this user needed!
 
+On top of the 8 answers, there are multiple comments to make sure that the top answer is verified. From a fellow Stack Overflow user, to me, there is no way to improve this answer!
+
 ## So what then?
 
 Let's all remember that if you ask a great question, you will receive great answers but let's not forget, that if you ask a bad question, you will receive bad answers.

@@ -44,7 +44,7 @@ Can you spot any more differences between the two?
 
 8 answers! The top answer including verification, 38 upvotes, and great content, just what this user needed!
 
-On top of the 8 answers, there are multiple comments to make sure that the top answer is verified. From a fellow Stack Overflow user, to me, there is no way to improve this answer!
+On top of the 8 answers, there are multiple comments to make sure that the top answer is perfect. From a fellow Stack Overflow user, to me, there is no way to improve this answer!
 
 ## So what then?
 

@@ -25,15 +25,15 @@ summary: My first project in ICS 111 at the University of Hawai'i at Mānoa was 
 
 ## Characters...
 
-<img class="ui large leftright floated image" src="../images/sora.gif">
+<img class="ui small leftright floated image" src="../images/sora.gif">
 
 My personal favorite, Sora, from Square Enix's "Kingdom Hearts" video game series. Sora already has a set pace in "Olympic Runner."
 
-<img class="ui large leftright floated image" src="../images/jake.gif">
+<img class="ui small leftright floated image" src="../images/jake.gif">
 
 From one of my favorite TV shows as a kid, Jake, from Cartoon Network's "Adventure Time," also has a set pace but, is slower than Sora.
 
-<img class="ui large leftright floated image" src="../images/naruto.gif">
+<img class="ui small leftright floated image" src="../images/naruto.gif">
 
 And finally, the user's player! Naruto, from Shonen Jump's... Naruto. Naruto's speed is the one character that is controlled by user input.
 

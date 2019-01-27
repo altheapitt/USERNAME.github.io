@@ -15,12 +15,6 @@ labels:
 summary: My first project in ICS 111 at the University of Hawai'i at Mānoa was to program a game just like the popular game of 'QWOP.'
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/sora.gif">
-  <img class="ui image" src="../images/jake.gif">
-  <img class="ui image" src="../images/naruto.gif">
-</div>
-
 "Olympic Runner" is a game I created in the ICS introduction class at the University of Hawai'i at Mānoa, this was the first project for the class. Our task was to create a game that took user input, by interchanging the keys 'a' and 's,' the user's character would go further down the track. The goal of the game was to beat the other characters to the finish line.
 
 ## Characters...

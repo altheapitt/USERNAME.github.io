@@ -35,18 +35,6 @@ And finally, the user's player! Naruto, from Shonen Jump's... Naruto. Naruto's s
 
 Wow, what a blast from the past! It is nice to reflect on my past achievements and compare myself to how I was back then. I remember thinking this project was very hard for me and I spent hours in the ICSpace at my university asking for help. I'm sure my TA at the time was fed up with seeing me all the time!
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
 ## [Video Demonstration!](https://www.youtube.com/watch?v=3LNWJLGIcOU)
 
 

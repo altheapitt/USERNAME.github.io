@@ -16,7 +16,7 @@ summary: My first project in ICS 111 at the University of Hawai'i at Mānoa was 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/sora.png">
+  <img class="ui image" src="../images/sora.gif">
   <img class="ui image" src="../images/jake.gif">
   <img class="ui image" src="../images/naruto.gif">
 </div>

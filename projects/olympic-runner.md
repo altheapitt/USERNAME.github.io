@@ -35,7 +35,7 @@ And finally, the user's player! Naruto, from Shonen Jump's... Naruto. Naruto's s
 
 ## ...a quick reflection.
 
-Wow, what a blast from the past! It is nice to reflect on my past achievements and compare myself to how I was back then. I remember thinking this project was very hard for me and I spent hours in the ICSpace at my university asking for help. I'm sure my TA at the time was fed up with seeing me all the time!
+Wow, what a blast from the past! It's always nice to reflect on my past achievements and compare myself to how I was back then. I remember thinking this project was very hard for me and I spent hours in the ICSpace at my university asking for help. I'm sure my TA at the time was fed up with seeing me all the time!
 
 ## [Video Demonstration!](https://www.youtube.com/watch?v=3LNWJLGIcOU)
 

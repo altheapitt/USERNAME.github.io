@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/olympicrunner.jpg
+image: images/project1.png
 title: Olympic Runner
 permalink: projects/olympicrunner
 # All dates must be YYYY-MM-DD format!

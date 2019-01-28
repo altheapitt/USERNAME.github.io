@@ -10,7 +10,7 @@ labels:
   - C
 summary: I created, compiled, and executed a C program that featured a series of functions.
 ---
-<img class="ui small right circular floated image" src="../images/c.png">
+<img class="ui small right circular floated image" src="../images/c.jpg">
 
 I have always heard stories about C and C++ programming but I never got the chance to use it until I took ICS 212 at the University of Hawai'i at Mānoa in the fall 2018 semester. This is one of the first programs I made for a homework assignment.
 

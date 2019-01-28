@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/jasonsays.png
+title: "Jason Says"
+permalink: projects/jason-says
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-12-05
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - ICS111
+  - Eclipse
+  - EZGraphics
+summary: My final project for ICS111 at the University of Hawai'i at Mānoa, a fun take on the game "Simon Says."
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">

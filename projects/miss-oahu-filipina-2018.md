@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Miss O'ahu Filipina 2018
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12

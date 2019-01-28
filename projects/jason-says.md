@@ -24,10 +24,8 @@ summary: My final project for ICS 111 at the University of Hawai'i at Mānoa - a
 
 The man giving commands is none other than my ICS introduction level professor, Jason Leigh, the director of the University of Hawai'i at Mānoa's [Laboratory for Advanced Visualization Applications](http://lava.manoa.hawaii.edu) (LAVA). Taking ICS 111 was my first step into programming as well as many others, Jason cultured every one of us in that class, whether we left or decided to stay.
 
-<img class="ui small right floated image" src="../images/simonbuttons.png">
-
 ## The Game.
 
-...
+The concept of the game "Simon Says" is to remember the sequence and execute the pattern when you are prompted. In our version, "Jason Says," the concept is the same. Each part of the color wheel is clickable, which is how you are to execute the pattern on screen. As you go through the game, you gain a point everytime you execute the pattern correctly. Once executed correctly, the game gets more difficult... At first, you start off with 3 colors Jason wants you to click on and after every round he adds one more color to the pattern. If you find yourself at a loss, you are presented with an end game 'Pepe the Frog' who is crying at your defeat.
  
 ## [Video Demonstration](https://www.youtube.com/watch?v=1FsBF-d501Y)

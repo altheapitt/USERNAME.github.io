@@ -9,7 +9,7 @@ date: 2018-11-24
 labels:
   - Pageant
   - Filipina
-summary: I competed in the Miss O'ahu Filipina 2018 scholarship pageant.
+summary: I created, compiled, and executed a C program that featured a series of functions.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/mof.png">
@@ -18,4 +18,4 @@ I have always heard stories about C and C++ programming but I never got the chan
 
 ## Different, but not that different.
 
-My first impressions of C were that 
+

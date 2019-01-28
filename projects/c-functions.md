@@ -14,6 +14,10 @@ summary: I created, compiled, and executed a C program that featured a series of
 
 I have always heard stories about C and C++ programming but I never got the chance to use it until I took ICS 212 at the University of Hawai'i at Mānoa in the fall 2018 semester. This is one of the first programs I made for a homework assignment.
 
+## The program?
+
+Here is a program that finds the factorial and exponent of a user inputted set of variables.
+
 <img class="ui large leftright floated image" src="../images/c1.png">
 <img class="ui large leftright floated image" src="../images/c2.png">
 

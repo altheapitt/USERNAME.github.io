@@ -24,8 +24,10 @@ summary: My final project for ICS 111 at the University of Hawai'i at Mānoa - a
 
 The man giving commands is none other than my ICS introduction level professor, Jason Leigh, the director of the University of Hawai'i at Mānoa's [Laboratory for Advanced Visualization Applications](http://lava.manoa.hawaii.edu) (LAVA). Taking ICS 111 was my first step into programming as well as many others, Jason cultured every one of us in that class, whether we left or decided to stay.
 
-<img class="ui large leftright floated image" src="../images/simonbuttons.png">
+<img class="ui large rightleft floated image" src="../images/simonbuttons.png">
 
 ## The Game.
+
+...
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+## [Video Demonstration](https://www.youtube.com/watch?v=1FsBF-d501Y)

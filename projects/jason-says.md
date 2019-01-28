@@ -28,4 +28,4 @@ The man giving commands is none other than my ICS introduction level professor, 
 
 The concept of the game "Simon Says" is to remember the sequence and execute the pattern when you are prompted. In our version, "Jason Says," the concept is the same. Each part of the color wheel is clickable, which is how you are to execute the pattern on screen. As you go through the game, you gain a point everytime you execute the pattern correctly. Once executed correctly, the game gets more difficult... At first, you start off with 3 colors Jason wants you to click on and after every round he adds one more color to the pattern. If you find yourself at a loss, you are presented with an end game 'Pepe the Frog' who is crying at your defeat.
  
-## [Video Demonstration](https://www.youtube.com/watch?v=1FsBF-d501Y)
+## [Video Demonstration!](https://www.youtube.com/watch?v=1FsBF-d501Y)

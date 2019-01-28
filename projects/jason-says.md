@@ -7,10 +7,12 @@ permalink: projects/jason-says
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-05
 labels:
-  - Java
-  - ICS111
   - Eclipse
+  - Game
   - EZGraphics
+  - ICS111
+  - UHM
+  - Java
 summary: My final project for ICS111 at the University of Hawai'i at Mānoa, a fun take on the game "Simon Says."
 ---
 

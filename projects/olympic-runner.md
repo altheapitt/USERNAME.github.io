@@ -12,6 +12,7 @@ labels:
   - EZGraphics
   - ICS111
   - UHM
+  - Java
 summary: My first project in ICS 111 at the University of Hawai'i at Mānoa was to program a game just like the popular game of 'QWOP.'
 ---
 

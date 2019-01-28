@@ -13,7 +13,7 @@ labels:
   - ICS111
   - UHM
   - Java
-summary: My final project for ICS111 at the University of Hawai'i at Mānoa, a fun take on the game "Simon Says."
+summary: My final project for ICS 111 at the University of Hawai'i at Mānoa - a fun take on the game "Simon Says."
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/claptop.png
+image: images/claptop.jpg
 title: C Functions
 permalink: projects/c-funtions
 # All dates must be YYYY-MM-DD format!

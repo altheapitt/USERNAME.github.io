@@ -8,6 +8,8 @@ permalink: projects/c-funtions
 date: 2018-11-24
 labels:
   - C
+  - ICS212
+  - UHM
 summary: I created, compiled, and executed a C program that featured a series of functions.
 ---
 <img class="ui small right circular floated image" src="../images/c.jpg">

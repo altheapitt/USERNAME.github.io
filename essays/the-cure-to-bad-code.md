@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title:  There is Such a Thing as a Dumb Question!
+title:  The Cure to 'Bad Code'?
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-22
+date: 2019-02-06
 labels:
   - Software Engineering
-  - Stack Overflow
+  - Coding Standards
 ---
 
 <img class="ui tiny left circular floated image" src="../images/stackoverflow.png">

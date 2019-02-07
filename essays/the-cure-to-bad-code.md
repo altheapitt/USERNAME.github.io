@@ -19,7 +19,7 @@ ESLint is an open source JavaScript linting utility originally created by Nichol
 
 <img class="ui large right floated image" src="../images/error.gif">
 
-## another. error.
+## sigh. another. error.
 
 So what do I do when I get an error? I google and google away until I find what is wrong with my code. I get it, this can be tedious but, at least we won't be missing any semicolons anymore. And with the way ESLint sets the formatting, the end result is a very beautiful layout...
 
@@ -27,22 +27,6 @@ With automatic indentation and errors that make sense, ESLint is very helpful fo
 
 <img class="ui large left floated image" src="../images/bartbadcode.gif">
 
-## That's more like it!
+## Repetition, repitition.
 
-Let's show some love for this user! With a title like that, it's no wonder this question has been viewed 34,859 times! To the right is an example of a great question. Short and sweet and with all the basic information needed to help this user with no stress at all, this is a perfect example of how one should ask for help.
-
-This particular post gained some major fame since it has been posted 2 years and 8 months ago. With 44 upvotes on the problem itself, this user struck a pot of gold with the amount of help he received...
-
-What did this user do differently?.. (1) The title of the forum post is not worded poorly. (2) The user provides everything a fellow programmer would need to solve the problem. (3) The post is very friendly and inviting, no scary walls of text!
-
-Can you spot any more differences between the two?
-
-<img class="ui large right floated image" src="../images/goodanswer.png">
-
-8 answers! The top answer including verification, 38 upvotes, and great content, just what this user needed!
-
-On top of the 8 answers, there are multiple comments to make sure that the top answer is perfect. From a fellow Stack Overflow user, to me, there is no way to improve this answer!
-
-## So what then?
-
-Let's all remember that if you ask a great question, you will receive great answers but let's not forget, that if you ask a bad question, you will receive bad answers.
+Just like Bart here, the only way to write better code is to write code. It may not be 'good code' but with ESLint you'll achieve something a little better than 'bad code'... to their standards... if you meet that green checkmark. Good luck!

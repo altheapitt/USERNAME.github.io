@@ -13,11 +13,11 @@ labels:
 
 My first impressions of ESLint with IntelliJ? Wow, great, now I can really focus on my coding format, but once I started to actually program with IntelliJ, I found that I got frustrated with how difficult it was trying to get that green checkmark. Despite this, it's not all for nothing.
   
-## "...Where Developers Learn, Share, & Build Careers"
+## "...Programming Sucks" - Programmer
    
-Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming. The way it works is Stack Overflow serves as a platform for users to ask and answer questions, and, through membership and active participation, to vote questions and answers up or down and edit questions and answers in a fashion similar to a wiki or Digg.
+[ESLint] (https://eslint.org/docs/about/) is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process.
 
-<img class="ui large leftright floated image" src="../images/badquestion.png">
+<img class="ui large rightleft floated image" src="../images/error.gif">
 
 ## The Not so Good, Bad, & Ugly
 

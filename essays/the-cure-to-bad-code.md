@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui tiny right circular floated image" src="../images/greencheckmark.png">
+<img class="ui tiny right circular floated image" src="../images/greencheckmark.jpg">
 
 My first impressions of ESLint with IntelliJ? Wow, great, now I can really focus on my coding format, but once I started to actually program with IntelliJ, I found that I got frustrated with how difficult it was trying to get that green checkmark. Despite this, it's not all for nothing.
   

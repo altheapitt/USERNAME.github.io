@@ -23,6 +23,8 @@ ESLint is an open source JavaScript linting utility originally created by Nichol
 
 So what do I do when I get an error? I google and google away until I find what is wrong with my code. I get it, this can be tedious but, at least we won't be missing any semicolons anymore. And with the way ESLint sets the formatting, the end result is a very beautiful layout...
 
+With automatic indentation and errors that make sense, ESLint is very helpful for someone at my stage of programming.
+
 <img class="ui large right floated image" src="../images/bartbadcode.gif">
 
 ## That's more like it!

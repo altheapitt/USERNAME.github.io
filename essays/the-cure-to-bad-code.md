@@ -27,6 +27,6 @@ With automatic indentation and errors that make sense, ESLint is very helpful fo
 
 <img class="ui large left floated image" src="../images/bartbadcode.gif">
 
-## Repetition, rep-zZzz.
+## Repetit-zZzZzz
 
 Just like Bart here, the only way to write better code is to write code. It may not be 'good code' but with ESLint you'll achieve something a little better than 'bad code'... to their standards... if you meet that green checkmark. Good luck!

@@ -9,9 +9,9 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui tiny left circular floated image" src="../images/stackoverflow.png">
+<img class="ui tiny right circular floated image" src="../images/greencheckmark.png">
 
-Everyone who has been on a computer programming forum website knows how rough users can be with their replies and comments but, they do so with good reason... A lot of these nasty replies can be prevented with a better understanding on how to ask for help. Question is, HOW DO YOU ask for help?
+My first impressions of ESLint with IntelliJ? Wow, great, now I can really focus on my coding format, but once I started to actually program with IntelliJ, I found that I got frustrated with how difficult it was trying to get that green checkmark. Despite this, it's not all for nothing.
   
 ## "...Where Developers Learn, Share, & Build Careers"
    

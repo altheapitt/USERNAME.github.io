@@ -25,7 +25,7 @@ So what do I do when I get an error? I google and google away until I find what 
 
 With automatic indentation and errors that make sense, ESLint is very helpful for someone at my stage of programming.
 
-<img class="ui large right floated image" src="../images/bartbadcode.gif">
+<img class="ui large left floated image" src="../images/bartbadcode.gif">
 
 ## That's more like it!
 

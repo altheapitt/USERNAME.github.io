@@ -16,12 +16,11 @@ labels:
   
 ## What am I thinking? 
   
-  The idea of having so many design frameworks to start from is very overwhelming until you make your decision. This
-  was the case of my final project in ICS314 at the University of Hawai'i at Mānoa.
+  My favorite front-end framework has to be Semantic-UI. The amount of resources in its extensive library is just amazing.
+  Using semantic is easy as well, because of how integrated it is and clean looking it makes your code look, it is very
+  easy to understand and program without reference. A lot of it is self-explanatory, makes sense, and bottom-line,
+  works.
   
-  ... but, there are many benefits to uding UI frameworks such as Semantic UI. (1) They are very easy to get rolling,
-  (2) it's just really nice to look at, (3) code is reliable and tested and (4) help is very easy to get when using
-  UI frameworks.
-  
-  Just the thought of code being too easy freaks me out, that's why I prefer coding raw HTML and CSS.
+  As for right now, I would say that learning another front-end framework sounds like a lot of work. I would be impressed
+  if I find something better than Semantic UI.
 

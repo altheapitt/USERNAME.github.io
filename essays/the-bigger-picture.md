@@ -11,7 +11,7 @@ labels:
 <img class="ui tiny left circular floated image" src="../images/ui.png">
 
   My main drive to major in Computer Science at the University of Hawai'i at Mānoa was learning how
-  to do website development. With my little and new experience of doing so, I am still living for it.
+  to do website development.  my lWithittle and new experience of doing so, I am still living for it.
   
 ## What am I thinking? 
   

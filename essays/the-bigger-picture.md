@@ -16,8 +16,8 @@ labels:
   
 ## What am I thinking? 
   
-  Despite my joy doing web development, there are some aspects of the subject I do not enjoy. One being, Semantic UI.
-  I love just coding using raw HTML and CSS, to me, Semantic UI takes the fun out of it.
+  The idea of having so many design frameworks to start from is very overwhelming until you make your decision. This
+  was the case of my final project in ICS314 at the University of Hawai'i at Mānoa.
   
   ... but, there are many benefits to uding UI frameworks such as Semantic UI. (1) They are very easy to get rolling,
   (2) it's just really nice to look at, (3) code is reliable and tested and (4) help is very easy to get when using
